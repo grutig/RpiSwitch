@@ -1,4 +1,4 @@
-#RpiSwitch
+# RpiSwitch
 
 I have a headless raspberry Pi application, designed to work in my car. 
 So, the system must boot automatically when the engine is turned on. When the engine is stopped it must trigger the system shutdown and wait until it ends.
